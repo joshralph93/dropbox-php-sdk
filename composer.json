@@ -1,5 +1,5 @@
 {
-    "name": "kunalvarma05/dropbox-php-sdk",
+    "name": "joshralph/dropbox-php-sdk",
     "description": "Dropbox PHP API V2 SDK (Unofficial)",
     "keywords" : ["dropbox", "sdk", "api", "client", "php", "unofficial"],
     "license": "MIT",
